@@ -1,0 +1,5 @@
+{
+  "name": "WorldFlagExplorer",
+  "description": "An interactive gallery of world flags with like/dislike functionality and AI-powered historical insights.",
+  "requestFramePermissions": []
+}
